@@ -1,0 +1,950 @@
+
+Entering Main JFrame	userinterface.MainJFrame
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+Entering Main JFrame	userinterface.MainJFrame
+Entering Main JFrame	userinterface.MainJFrame
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Invalid credentials for user
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Lab
+Sent request to Lab
+Sent request to Lab
+Sent request to Clinic
+Sent request to Clinic
+Sent request to Clinic
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Clinic
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+refreshed the table
+refreshed the table
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE assigned a task to himself
+BVE processes the task
+request updated successfully
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BS
+Current Organization	Sample Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.SampleRole
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BME logged in drug work area
+BME entering chemical requests page
+BME added chemicalVR
+chemical request has been sent to chemical organization
+BME entering view chemical details page
+entering view chemical requests page
+BME entering chemical requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Clinic
+Sent request to Clinic
+Invalid credentials for user
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Clinic
+Sent request to Clinic
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Clinic
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BME logged in drug work area
+BME entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE entering clinicaltrial requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BME logged in drug work area
+BME entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BME logged in drug work area
+BME entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Sysadmin Creating Networkuserinterface.SystemAdminWorkArea.ManageNetworkJPanel
+Name of network Created:	Boston
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+name of the Enterpise is: 	BHname of Network in which the enterprise is: 	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	BPname of Network in which the enterprise is: 	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	BMname of Network in which the enterprise is: 	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	BVname of Network in which the enterprise is: 	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	BSname of Network in which the enterprise is: 	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	BHname of the enterprise is: 	BHname of network is	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	BPname of the enterprise is: 	BPname of network is	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	BMname of the enterprise is: 	BMname of network is	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	BVname of the enterprise is: 	BVname of network is	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	BSname of the enterprise is: 	BSname of network is	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationDoctor
+Enterprise admin adding the following OrganizationLab
+Enterprise admin adding the following OrganizationClinic
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	BHDin following Organization 	Doctor Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	BHDRoleBusiness.Role.DoctorRoleIn OrganizationDoctor Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	BHLin following Organization 	Lab Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding following employee 	BHCin following Organization 	Clinic Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	BHLRoleBusiness.Role.LabRoleIn OrganizationLab Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating user with name 	BHCRoleBusiness.Role.ClinicRoleIn OrganizationClinic Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Invalid credentials for user
+Invalid credentials for user
+Invalid credentials for user
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Clinic
+Sent request to Clinic
+Sent request to Lab
+Sent request to Clinic
+Sent request to Lab
+Current Enterprise	BH
+Current Organization	Lab Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.LabRole
+BHL logged in
+BHL has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Invalid credentials for user
+Invalid credentials for user
+Logged in User RoleBusiness.Role.SystemAdminRole
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	BMEname of the enterprise is: 	BMEname of network is	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationMedicine
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	BMEin following Organization 	Medicine Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	BMERoleBusiness.Role.MedicineRoleIn OrganizationMedicine Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationMedicine
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	BBBBRoleBusiness.Role.MedicineRoleIn OrganizationMedicine Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BBBB logged in drug work area
+BBBB entering lab requests page
+Invalid credentials for user
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Clinic
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BBBB logged in drug work area
+BBBB entering lab requests page
+BBBB entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Clinic
+Sent request to Clinic
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BBBB logged in drug work area
+BBBB entering lab requests page
+BBBB entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Clinic
+Sent request to Clinic
+Sent request to Clinic
+Sent request to Lab
+Current Enterprise	BH
+Current Organization	Lab Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.LabRole
+BHL logged in
+Invalid credentials for user
+Current Enterprise	BH
+Current Organization	Lab Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.LabRole
+BHL logged in
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Lab Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.LabRole
+BHL logged in
+BHL has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Logged in User RoleBusiness.Role.AdminRole
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BBBB logged in drug work area
+BBBB entering lab requests page
+BBBB entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BBBB logged in drug work area
+BBBB entering lab requests page
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BBBB logged in drug work area
+BBBB entering lab requests page
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Entering Main JFrame	userinterface.MainJFrame
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BBBB logged in drug work area
+BBBB entering lab requests page
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Clinic
+Sent request to Clinic
+Sent request to Lab
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BBBB logged in drug work area
+BBBB entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BBBB logged in drug work area
+BBBB entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Sysadmin Creating Networkuserinterface.SystemAdminWorkArea.ManageNetworkJPanel
+Name of network Created:	boston
+Sysadmin Creating Networkuserinterface.SystemAdminWorkArea.ManageNetworkJPanel
+Name of network Created:	cali
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+name of the Enterpise is: 	bhname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	bpname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	bmname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	bvname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	bsname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bhname of the enterprise is: 	bhname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bpname of the enterprise is: 	bpname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bmname of the enterprise is: 	bmname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bvname of the enterprise is: 	bvname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bsname of the enterprise is: 	bsname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationDoctor
+Enterprise admin adding the following OrganizationLab
+Enterprise admin adding the following OrganizationClinic
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bhdin following Organization 	Doctor Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding following employee 	bhlin following Organization 	Lab Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding following employee 	bhcin following Organization 	Clinic Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bhdRoleBusiness.Role.DoctorRoleIn OrganizationDoctor Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating user with name 	bhlRoleBusiness.Role.LabRoleIn OrganizationLab Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating user with name 	bhcRoleBusiness.Role.ClinicRoleIn OrganizationClinic Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationPharmacy
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bpin following Organization 	Pharmacy Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bpRoleBusiness.Role.PharmacyRoleIn OrganizationPharmacy Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationPharmacy
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bpein following Organization 	Pharmacy Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bpeRoleBusiness.Role.PharmacyRoleIn OrganizationPharmacy Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationMedicine
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bmein following Organization 	Medicine Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bmeRoleBusiness.Role.MedicineRoleIn OrganizationMedicine Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationVaccine
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bvein following Organization 	Vaccine Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bveRoleBusiness.Role.VaccineRoleIn OrganizationVaccine Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationSample
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bsein following Organization 	Sample Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bseRoleBusiness.Role.SampleRoleIn OrganizationSample Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Current Enterprise	bh
+Current Organization	Doctor Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+Sent request to Lab
+Sent request to Clinic
+Current Enterprise	bh
+Current Organization	Lab Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.LabRole
+bhl logged in
+bhl has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	bh
+Current Organization	Clinic Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.ClinicRole
+bhc logged in
+bhc has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	bm
+Current Organization	Medicine Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.MedicineRole
+bme logged in drug work area
+bme entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	bm
+Current Organization	Medicine Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.MedicineRole
+bme logged in drug work area
+bme entering lab requests page
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	bh
+Current Organization	Doctor Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor role
+going back to Doctors work area
+inside doctor's lab request
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Current Enterprise	bh
+Current Organization	Doctor Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+adding request to lab assistant
+=======
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Current Enterprise	BH
+Current Organization	Doctor Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor role
+Pharmacy Organization
+Current Enterprise	BP
+Current Organization	Pharmacy Organization
+Current Network	Boston
+request sent to Pharmacy
+Pharmacy Organization
+Current Enterprise	BP
+Current Organization	Pharmacy Organization
+Current Network	Boston
+request sent to Pharmacy
+Pharmacy Organization
+Current Enterprise	BP
+Current Organization	Pharmacy Organization
+Current Network	Boston
+request sent to Pharmacy
+going back to Doctors work area
+inside doctor's lab request
+Sent request to Lab
+Sent request to Lab
+Sent request to Lab
+Sent request to Clinic
+Sent request to Clinic
+Sent request to Clinic
+Current Enterprise	BH
+Current Organization	Lab Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.LabRole
+BHL logged in
+BHL has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+BHC has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	BP
+Current Organization	Pharmacy Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.PharmacyRole
+BPE logged in
+medicine added successfully
+BPE sending request to Drug Organization
+Current Enterprise	BM
+Current Organization	Medicine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.MedicineRole
+BME logged in drug work area
+BME entering chemical requests page
+BME added chemicalASDFG
+chemical request has been sent to chemical organization
+entering view chemical requests page
+entering view chemical requests page
+Current Enterprise	BV
+Current Organization	Vaccine Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.VaccineRole
+BVE assigned a task to himself
+BVE processes the task
+request updated successfully
+BVE entering clinicaltrial requests page
+Current Enterprise	BS
+Current Organization	Sample Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.SampleRole
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	BH
+Current Organization	Clinic Organization
+Current Network	Boston
+Logged in User RoleBusiness.Role.ClinicRole
+BHC logged in
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bhname of the enterprise is: 	bhname of network is	Boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Invalid credentials for user
+Invalid credentials for user
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Sysadmin Creating Networkuserinterface.SystemAdminWorkArea.ManageNetworkJPanel
+Name of network Created:	boston
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+name of the Enterpise is: 	bhname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	bpname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	bmname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	bvname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	bsname of Network in which the enterprise is: 	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bhname of the enterprise is: 	bhname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bpname of the enterprise is: 	bpname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bmname of the enterprise is: 	bmname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bvname of the enterprise is: 	bvname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	bsname of the enterprise is: 	bsname of network is	boston	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationDoctor
+Enterprise admin adding the following OrganizationLab
+Enterprise admin adding the following OrganizationClinic
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bhdoin following Organization 	Doctor Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding following employee 	bhloin following Organization 	Lab Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding following employee 	bhcoin following Organization 	Clinic Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bhdoRoleBusiness.Role.DoctorRoleIn OrganizationDoctor Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating user with name 	bhloRoleBusiness.Role.LabRoleIn OrganizationLab Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating user with name 	bhcoRoleBusiness.Role.ClinicRoleIn OrganizationClinic Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Invalid credentials for user
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationPharmacy
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bppoin following Organization 	Pharmacy Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bppoRoleBusiness.Role.PharmacyRoleIn OrganizationPharmacy Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Current Enterprise	bp
+Current Organization	Pharmacy Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.PharmacyRole
+bppo logged in
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationMedicine
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bmmoin following Organization 	Medicine Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bmmoRoleBusiness.Role.MedicineRoleIn OrganizationMedicine Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationSample
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bssoin following Organization 	Sample Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bssoRoleBusiness.Role.SampleRoleIn OrganizationSample Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationVaccine
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	bvvoin following Organization 	Vaccine Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	bvvoRoleBusiness.Role.VaccineRoleIn OrganizationVaccine Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Current Enterprise	bv
+Current Organization	Vaccine Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.VaccineRole
+bvvo entering clinicaltrial requests page
+Current Enterprise	bh
+Current Organization	Doctor Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor role
+Pharmacy Organization
+Current Enterprise	bp
+Current Organization	Pharmacy Organization
+Current Network	boston
+request sent to Pharmacy
+going back to Doctors work area
+inside doctor's lab request
+Sent request to Lab
+Sent request to Lab
+Sent request to Clinic
+Sent request to Clinic
+Current Enterprise	bh
+Current Organization	Lab Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.LabRole
+bhlo logged in
+bhlo has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	bh
+Current Organization	Clinic Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.ClinicRole
+bhco logged in
+bhco has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	bh
+Current Organization	Clinic Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.ClinicRole
+bhco logged in
+Current Enterprise	bh
+Current Organization	Clinic Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.ClinicRole
+bhco logged in
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Current Enterprise	bh
+Current Organization	Clinic Organization
+Current Network	boston
+Logged in User RoleBusiness.Role.ClinicRole
+bhco logged in
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Entering Main JFrame	userinterface.MainJFrame
+Entering Main JFrame	userinterface.MainJFrame
